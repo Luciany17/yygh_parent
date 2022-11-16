@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="service_utis" />
         <module name="model" />
         <module name="common_utis" />
+        <module name="service_utis" />
+        <module name="service_hosp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="common_utis" target="1.8" />
       <module name="model" target="1.8" />
       <module name="service" target="1.8" />
+      <module name="service_hosp" target="1.8" />
       <module name="service_utis" target="1.8" />
       <module name="yygh_parent" target="1.8" />
     </bytecodeTargetLevel>
@@ -26,6 +28,7 @@
       <module name="common_utis" options="-parameters" />
       <module name="model" options="-parameters" />
       <module name="service" options="-parameters" />
+      <module name="service_hosp" options="-parameters" />
       <module name="service_utis" options="-parameters" />
       <module name="yygh_parent" options="-parameters" />
     </option>
