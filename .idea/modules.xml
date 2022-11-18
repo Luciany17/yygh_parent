@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/common/common_utis/common_utis.iml" filepath="$PROJECT_DIR$/common/common_utis/common_utis.iml" />
       <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service_cmn/service_cmn.iml" filepath="$PROJECT_DIR$/service/service_cmn/service_cmn.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service_hosp/service_hosp.iml" filepath="$PROJECT_DIR$/service/service_hosp/service_hosp.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/service_utis/service_utis.iml" filepath="$PROJECT_DIR$/common/service_utis/service_utis.iml" />
       <module fileurl="file://$PROJECT_DIR$/yygh_parent.iml" filepath="$PROJECT_DIR$/yygh_parent.iml" />

@@ -10,6 +10,7 @@
         <module name="common_utis" />
         <module name="service_utis" />
         <module name="service_hosp" />
+        <module name="service_cmn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="common_utis" target="1.8" />
       <module name="model" target="1.8" />
       <module name="service" target="1.8" />
+      <module name="service_cmn" target="1.8" />
       <module name="service_hosp" target="1.8" />
       <module name="service_utis" target="1.8" />
       <module name="yygh_parent" target="1.8" />
@@ -28,6 +30,7 @@
       <module name="common_utis" options="-parameters" />
       <module name="model" options="-parameters" />
       <module name="service" options="-parameters" />
+      <module name="service_cmn" options="-parameters" />
       <module name="service_hosp" options="-parameters" />
       <module name="service_utis" options="-parameters" />
       <module name="yygh_parent" options="-parameters" />

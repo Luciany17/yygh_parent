@@ -72,11 +72,11 @@ public class HospitalSetController {
     public Result getHospSet(@PathVariable Long id) {
         //模拟异常
 
-        try {
-            int i = 5/0;
-        } catch (Exception e) {
-            throw new YyghException("失败",201);
-        }
+//        try {
+//            int i = 5/0;
+//        } catch (Exception e) {
+//            throw new YyghException("失败",201);
+//        }
         HospitalSet byId = hospitalSetService.getById(id);
         return Result.ok(byId);
     }
